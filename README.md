@@ -22,4 +22,4 @@
 
 ## ⭐ Information about my activity in GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fallenincoma&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=killmecoma&show_icons=true)
