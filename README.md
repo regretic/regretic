@@ -3,7 +3,7 @@
 > I'm a middle developer and also a designer. I do web development and web/graphic design.
 
 💬 If you want to write to me about the order, then write to my manager
-#### 🌐 Telegram: @killmecoma
+#### 🌐 Telegram: @xauruowner
 
 ---
 
