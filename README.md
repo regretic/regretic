@@ -3,7 +3,7 @@
 > I'm a middle developer and also a designer. I do web development and web/graphic design.
 
 💬 If you want to write to me about the order, then write to my manager
-#### 🌐 Telegram: @xauruowner
+#### 🌐 Telegram: @xaurutwin
 
 ---
 
@@ -23,4 +23,4 @@
 
 ## ⭐ Information about my activity in GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=killmecoma&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=regretic&show_icons=true)
